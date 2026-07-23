@@ -26,7 +26,7 @@
 
 - 🏫 **College:** Swami Vivekananda University, Barrackpore
 - 🎓 **Degree:** B.Tech in Computer Science & Engineering
-- 📅 **Year of Study:** 1st Year
+- 📅 **Year of Study:** 2nd Year
 - 💡 Passionate about **Web Development & Data Analytics**
 - 🚀 Love building beginner-friendly and real-world projects
 - 🎯 **Career Goal:** To become a skilled Python Full Stack Developer and Data Scientist
